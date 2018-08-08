@@ -37,6 +37,14 @@ The only way to ‘lose’ money, is if your salary increases (we assume due to 
 The negotiation and creation of the contract will take place at amatus. HQ with a lawyer.
 Is the contract legally binding? Yes. This also discourages anyone from not fulfilling their promises, and protects each of you in case one of you breaches any clauses. 
 
-## Sold? We couldn’t be happier to hear it. Start your journey as a test user by filling out this questionnaire. 
+**Sold?**
+We couldn’t be happier to hear it. Start your journey as a test user by filling out this questionnaire. 
 
-Not yet? No problem. If you have 10 minutes to spare, please still consider filling out our baseline questionnaire - you do not have to be a study participant for your feedback to be valuable. 
+**Not yet?**
+No problem. If you have 10 minutes to spare, please still consider filling out our baseline questionnaire - you do not have to be a study participant for your feedback to be valuable. 
+
+**Still have questions?** Don’t hesitate to contact us. 
+
+**Dev Pramoth** - Venture Developer
+**Valentina Calandra** - Innovation Strategist
+
