@@ -17,7 +17,7 @@ The contract negotiation will take place at amatus. HQ with our lawyer and team 
 We invite you to work from our office one day per week to encourage collaboration. 
 Shares are paid out at the end of each month, allowing participants to reassess if they want to continue their investment, or simply pull out their initial investment, and neither lose nor gain money. 
 
-![Visual Summary of concept](https://photos.app.goo.gl/UoKwgrZg64tBnjCA9)
+![Visual Summary of concept] (https://photos.app.goo.gl/UoKwgrZg64tBnjCA9)
 
 ## Money.
 You and your partner’s invested shares will simply be held in your respective bank accounts
