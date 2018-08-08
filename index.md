@@ -26,7 +26,7 @@ We allow each user to place an individualized income cap. For example, let’s s
 
 
 ## Are there any risks involved?
-The short answer is - not really. 
+The short answer is - **not really.**
 
 Your partner may not be matching your expectations in terms of the time and support they offer you. In this case, you can pull out your investment after the first month, and either drop out of the study or ask to be paired with someone new. 
 You can anyways drop out of the study at any point, with no losses. 
