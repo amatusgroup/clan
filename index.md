@@ -17,12 +17,14 @@ The contract negotiation will take place at amatus. HQ with our lawyer and team 
 We invite you to work from our office one day per week to encourage collaboration. 
 Shares are paid out at the end of each month, allowing participants to reassess if they want to continue their investment, or simply pull out their initial investment, and neither lose nor gain money. 
 
+![Visual Summary of concept](https://photos.app.goo.gl/UoKwgrZg64tBnjCA9)
 
 ## Money.
 You and your partner’s invested shares will simply be held in your respective bank accounts
 This could be a separate savings account, or in your regular account
 Can I choose how much of my income I want to invest? Of course. It can be as low or as high as you like. 
 We allow each user to place an individualized income cap. For example, let’s say you earn a total of 2,500eur. p./month. You decide that your first 1,500eur. p/month is protected. This means that however much income you choose to share (let’s say 5%) will be calculated on anything above your first 1,500eur. In this case, your shared income would be 5% of (2,500eur. - 1,500eur.) = 50eur. 
+
 
 
 ## Are there any risks involved?
@@ -48,4 +50,3 @@ No problem. If you have 10 minutes to spare, please still consider filling out o
 **Dev Pramoth** - Venture Developer
 
 **Valentina Calandra** - Innovation Strategist
-
