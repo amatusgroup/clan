@@ -46,5 +46,6 @@ No problem. If you have 10 minutes to spare, please still consider filling out o
 **Still have questions?** Don’t hesitate to contact us. 
 
 **Dev Pramoth** - Venture Developer
+
 **Valentina Calandra** - Innovation Strategist
 
