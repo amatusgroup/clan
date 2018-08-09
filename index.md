@@ -33,7 +33,8 @@ The short answer is - **not really.**
 * Your partner may not be matching your expectations in terms of the time and support they offer you. In this case, you can pull out your investment after the first month, and either drop out of the study or ask to be paired with someone new. 
 * The only way to ‘lose’ money, is if your salary increases (we assume due to the help of your partner). In this case, you haven’t really lost anything at all, since your increased hourly rate or overall income will outweigh any losses in shares. Check out the example case below for a more detailed and visual explanation of this.
 
-![Case Example](http://gdurl.com/j4Z2)
+          
+          ![Case Example](http://gdurl.com/j4Z2)
 
 
 ## Legal matters.
