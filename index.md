@@ -42,7 +42,7 @@ The short answer is - **not really.**
 
 
 **Sold?**
-We couldn’t be happier to hear it. Start your journey as a test user by filling out this questionnaire. 
+We couldn’t be happier to hear that. Start your journey as a test user by filling out this questionnaire. 
 
 **Not yet?**
 No problem. If you have 10 minutes to spare, please still consider filling out our baseline questionnaire - you do not have to be a study participant for your feedback to be valuable. 
