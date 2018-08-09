@@ -17,7 +17,7 @@ We at amatus. dream of a world in which collaboration is more common than compet
 * We invite you to work from our office one day per week to encourage collaboration. 
 * Shares are paid out at the end of the six months, though participants can reassess if they want to continue at the end of each month.  
 
-![Visual Summary of concept](https://image.ibb.co/fNn0rU/Screen_Shot_2018_08_08_at_17_33_11.png)
+![Visual Summary of concept](http://gdurl.com/j4Z2)
 
 ## Money.
 * **You and your partner’s invested shares will simply be held in your respective bank accounts**
@@ -49,6 +49,6 @@ No problem. If you have 10 minutes to spare, please still consider filling out o
 
 **Still have questions?** Don’t hesitate to contact us. 
 
-[**Dev Pramoth**](dev@amatus.com) - Venture Developer
+**Dev Pramoth** - Venture Developer
 
-[**Valentina Calandra**](valentina@amatus.com) - Innovation Strategist
+**Valentina Calandra** - Innovation Strategist
