@@ -17,7 +17,7 @@ We at amatus. dream of a world in which collaboration is more common than compet
 * We invite you to work from our office one day per week to encourage collaboration. 
 * Shares are paid out at the end of the six months, though participants can reassess if they want to continue at the end of each month.  
 
-![Visual Summary of concept](http://gdurl.com/j4Z2)
+![Visual Summary of concept](http://gdurl.com/okPc)
 
 ## Money.
 * **You and your partner’s invested shares will simply be held in your respective bank accounts**
@@ -33,7 +33,7 @@ The short answer is - **not really.**
 * Your partner may not be matching your expectations in terms of the time and support they offer you. In this case, you can pull out your investment after the first month, and either drop out of the study or ask to be paired with someone new. 
 * The only way to ‘lose’ money, is if your salary increases (we assume due to the help of your partner). In this case, you haven’t really lost anything at all, since your increased hourly rate or overall income will outweigh any losses in shares. Check out the example case below for a more detailed and visual explanation of this.
 
-![Case Example](http://someurl/image.gif)
+![Case Example](http://gdurl.com/j4Z2)
 
 
 ## Legal matters.
