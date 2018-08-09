@@ -34,7 +34,7 @@ The short answer is - **not really.**
 * The only way to ‘lose’ money, is if your salary increases (we assume due to the help of your partner). In this case, you haven’t really lost anything at all, since your increased hourly rate or overall income will outweigh any losses in shares. Check out the example case below for a more detailed and visual explanation of this.
 
           
-          ![Case Example](http://gdurl.com/j4Z2)
+     ![Case Example](http://gdurl.com/j4Z2)
 
 
 ## Legal matters.
