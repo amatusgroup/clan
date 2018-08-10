@@ -45,7 +45,7 @@ The short answer is - **not really.**
 
 
 #### Interested?
-We couldn’t be happier to hear that. Start your journey as a test user by filling out this [I'm an inline-style link with title](https://www.google.com "Typeform Questionnaire")questionnaire. 
+We couldn’t be happier to hear that. Start your journey as a test user by filling out this [questionnaire.](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire")
 
 #### Not yet?
 No problem. If you have 10 minutes to spare, please still consider filling out our baseline questionnaire - you do not have to be a study participant for your feedback to be valuable. 
