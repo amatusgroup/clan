@@ -5,7 +5,7 @@
 **clan.** is a collaborative incentive program in which peers invest a small part of their incomes, as well as support and time in one another, thereby providing a mutually beneficial arrangement for both parties involved. Simply said, the success of your peer (through increased projects or pay) results in an increase in your investment. We are currently in the testing phase of clan. and are recruiting freelance tech professionals to join the study.
 
 
-###[Interested?](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire")
+[###Interested?](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire")
 
 
 ### Why are we doing this?
@@ -25,7 +25,6 @@ We at amatus. dream of a world in which collaboration is more common than compet
 ![Visual Summary of concept](http://gdurl.com/kXJx)
 ### Money.
 * **You and your partner’s invested shares will simply be held in your respective bank accounts**
- * This could be a separate savings account, or in your regular account
 * Can I choose how much of my income I want to invest? Of course. It can be as low or as high as you like. 
 * We allow each user to place an individualized income cap. For example, let’s say you earn a total of 2,500eur. p./month. You decide that your first 1,500eur. p/month is protected. This means that however much income you choose to share (let’s say 5%) will be calculated on anything above your first 1,500eur. In this case, your shared income would be 5% of (2,500eur. - 1,500eur.) = 50eur. 
 
@@ -50,7 +49,7 @@ The short answer is - **not really.**
 We couldn’t be happier to hear that. Start your journey as a test user by filling out this [questionnaire.](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire")
 
 #### Not yet?
-No problem. If you have 10 minutes to spare, please still consider filling out our baseline questionnaire - you do not have to be a study participant for your feedback to be valuable. 
+No problem. If you have 10 minutes to spare, please still consider filling out our [baseline questionnaire.](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire") - you do not have to be a study participant for your feedback to be valuable. 
 
 ### Still have questions?
 Don’t hesitate to contact us. 
