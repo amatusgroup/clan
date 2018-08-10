@@ -1,4 +1,4 @@
-<h1><strong>clan<span style="color: #ff0000;">.</span></strong></h1>
+<p><span style="font-size: 40pt; font-family: helvetica;">clan<span style="color: #ff0000;">.</span></span></p>
 
 ## What is clan.?
 **clan.** is a collaborative incentive program in which peers invest a small part of their incomes, as well as support and time in one another, thereby providing a mutually beneficial arrangement for both parties involved. Simply said, the success of your peer (through increased projects or pay) results in an increase in your investment. We are currently in the testing phase of clan. and are recruiting freelance tech professionals to join the study.
