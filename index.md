@@ -1,16 +1,17 @@
-<p><span style="font-size: 40pt; font-family: helvetica;">clan<span style="color: #ff0000;">.</span></span></p>
+<p><span style="font-size: 44pt; font-family: helvetica;">clan<span style="color: #ff0000;">.</span></span></p>
+<p><span style="font-size: 44pt; font-family: helvetica; color: #000000;">collaboration&gt;competition</span></p>
 
-## What is clan.?
+### What is clan.?
 **clan.** is a collaborative incentive program in which peers invest a small part of their incomes, as well as support and time in one another, thereby providing a mutually beneficial arrangement for both parties involved. Simply said, the success of your peer (through increased projects or pay) results in an increase in your investment. We are currently in the testing phase of clan. and are recruiting freelance tech professionals to join the study.
 
 
 
-## Why are we doing this?
+### Why are we doing this?
 We at amatus. dream of a world in which collaboration is more common than competition, in which the success of our peers does not come at the expense of our own. We are passionate about designing systems that incentivise benevolent behavior, while creating tangible benefits for all parties involved. This is where the inspiration from clan. comes from. 
 
 
 
-## What does testing require of participants?
+### What does testing require of participants?
 * The study will run for six months, during which we will collect data (baseline, and at the end of each month).
   * You don’t need to come into the office for these data collection intervals - they will be done through an online questionnaire.
   * You are free to drop out of the study at any point.
@@ -21,7 +22,7 @@ We at amatus. dream of a world in which collaboration is more common than compet
 
 ![Visual Summary of concept](http://gdurl.com/okPc)
 
-## Money.
+### Money.
 * **You and your partner’s invested shares will simply be held in your respective bank accounts**
  * This could be a separate savings account, or in your regular account
 * Can I choose how much of my income I want to invest? Of course. It can be as low or as high as you like. 
@@ -29,7 +30,7 @@ We at amatus. dream of a world in which collaboration is more common than compet
 
 
 
-## Are there any risks involved?
+### Are there any risks involved?
 The short answer is - **not really.**
 
 * Your partner may not be matching your expectations in terms of the time and support they offer you. In this case, you can pull out your investment after the first month, and either drop out of the study or ask to be paired with someone new. 
@@ -39,7 +40,7 @@ The short answer is - **not really.**
      ![Case Example](http://gdurl.com/j4Z2)
 
 
-## Legal matters.
+### Legal matters.
 * The negotiation and creation of the contract will take place at amatus. HQ with a lawyer.
 * **Is the contract legally binding? Yes. This also discourages anyone from not fulfilling their promises, and protects each of you in case one of you breaches any clauses.** 
 
