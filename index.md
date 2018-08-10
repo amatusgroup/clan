@@ -52,8 +52,8 @@ We couldn’t be happier to hear that. Start your journey as a test user by fill
 No problem. If you have 10 minutes to spare, please still consider filling out our [baseline questionnaire.](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire") - you do not have to be a study participant for your feedback to be valuable. 
 
 ### Still have questions?
-Don’t hesitate to contact us. 
+Don’t hesitate to contact us.
 
-**Dev Pramoth** - Venture Developer
+[Dev Pramoth](mailto:dev@amatus.com "Email ID") - Venture Developer
 
-**Valentina Calandra** - Innovation Strategist
+[Valentina Calandra](mailto:valentina@amatus.com "Email ID") - Innovation Strategist
