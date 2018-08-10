@@ -21,7 +21,6 @@ We at amatus. dream of a world in which collaboration is more common than compet
 * Shares are paid out at the end of the six months, though participants can reassess if they want to continue at the end of each month.  
 
 ![Visual Summary of concept](http://gdurl.com/okPc)
-
 ### Money.
 * **You and your partner’s invested shares will simply be held in your respective bank accounts**
  * This could be a separate savings account, or in your regular account
