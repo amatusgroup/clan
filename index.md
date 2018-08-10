@@ -50,7 +50,8 @@ We couldn’t be happier to hear that. Start your journey as a test user by fill
 **Not yet?**
 No problem. If you have 10 minutes to spare, please still consider filling out our baseline questionnaire - you do not have to be a study participant for your feedback to be valuable. 
 
-**Still have questions?** Don’t hesitate to contact us. 
+### Still have questions?
+Don’t hesitate to contact us. 
 
 **Dev Pramoth** - Venture Developer
 
