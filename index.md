@@ -5,7 +5,6 @@
 **clan.** is a collaborative incentive program in which peers invest a small part of their incomes, as well as support and time in one another, thereby providing a mutually beneficial arrangement for both parties involved. Simply said, the success of your peer (through increased projects or pay) results in an increase in your investment. We are currently in the testing phase of clan. and are recruiting freelance tech professionals to join the study.
 
 
-[Interested?](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire")
 <a href="https://valentinacalandra.typeform.com/to/mcHrTE" target="_blank">Interested?</a>
 
 
@@ -47,10 +46,10 @@ The short answer is - **not really.**
 
 
 #### Interested?
-We couldn’t be happier to hear that. Start your journey as a test user by filling out this [questionnaire.](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire")
+We couldn’t be happier to hear that. Start your journey as a test user by filling out this <a href="https://valentinacalandra.typeform.com/to/mcHrTE" target="_blank">questionnaire.</a>
 
 #### Not yet?
-No problem. If you have 10 minutes to spare, please still consider filling out our [baseline questionnaire.](https://valentinacalandra.typeform.com/to/mcHrTE "Typeform Questionnaire") - you do not have to be a study participant for your feedback to be valuable. 
+No problem. If you have 10 minutes to spare, please still consider filling out our <a href="https://valentinacalandra.typeform.com/to/mcHrTE" target="_blank">baseline questionnaire.</a> - you do not have to be a study participant for your feedback to be valuable. 
 
 ### Still have questions?
 Don’t hesitate to contact us.
