@@ -5,7 +5,7 @@
 **clan.** is a collaborative incentive program in which peers invest a small part of their incomes, as well as support and time in one another, thereby providing a mutually beneficial arrangement for both parties involved. Simply said, the success of your peer (through increased projects or pay) results in an increase in your investment. We are currently in the testing phase of clan. and are recruiting freelance tech professionals to join the study.
 
 
-<a href="https://valentinacalandra.typeform.com/to/mcHrTE" target="_blank" title="Typeform questionnaire"><span style="color: #ff0000;">Interested?</span></a>
+<a href="https://valentinacalandra.typeform.com/to/mcHrTE" target="_blank" title="Typeform questionnaire"><span style="color: #6ab04c;">Interested?</span></a>
 
 
 ### Why are we doing this?
