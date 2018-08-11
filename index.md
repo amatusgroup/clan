@@ -54,6 +54,6 @@ No problem. If you have 10 minutes to spare, please still consider filling out o
 ### Still have questions?
 Don’t hesitate to contact us.
 
-[Dev Pramoth](mailto:dev@amatus.com "Email ID" title="Email ID") - Venture Developer
+[Dev Pramoth](mailto:dev@amatus.com "Email ID") - Venture Developer
 
-[Valentina Calandra](mailto:valentina@amatus.com "Email ID" title="Email ID") - Innovation Strategist
+[Valentina Calandra](mailto:valentina@amatus.com "Email ID") - Innovation Strategist
