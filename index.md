@@ -52,7 +52,6 @@ We couldn’t be happier to hear that. Start your journey as a test user by fill
 No problem. If you have 10 minutes to spare, please still consider filling out our <a href="https://valentinacalandra.typeform.com/to/mcHrTE" target="_blank" title="Typeform questionnaire">baseline questionnaire.</a> - you do not have to be a study participant for your feedback to be valuable. 
 
 <!-- Begin MailChimp Signup Form -->
-
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
