@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: page
 ---
 
-# Features:
-Hagura is a the
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
