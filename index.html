@@ -82,22 +82,21 @@ layout: default
 
 <p><a href="mailto:dev@amatus.com" title="Email ID">Dev Pramoth</a> - Venture Developer</p>
 
-<p><a href="mailto:valentina@amatus.com" title="Email ID">Valentina Calandra</a> - Innovation Strategist</p>
-    	
-
+<p><a href="mailto:valentina@amatus.com" title="Email ID">Valentina Calandra</a> - Innovation Strategist</p>  	
 <br>
+<--- Formspree form --->
 <h3>Interested? Follow our development</h3>
 <style>
 .button {
-    background-color: #ffO81d; /* Green */
-    border: none;
+    background-color: #ff081d; 
+    border-radius: 4px;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 26px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-size: 14px;
+    margin: 3px 1.5px;
 }
 </style>
 <form method="POST" action="https://formspree.io/dev@amatus.com">
@@ -105,10 +104,9 @@ layout: default
   <br>
   <input type="email" name="email" placeholder="Your email">
   <br>
-  <button class ="button" type="submit">Subscribe</button>
+  <button class="button" type="submit">Subscribe</button>
+  <input type="hidden" name="_next" value="https://amatus.com/clan" />
 </form>
-
-# <p><a href="https://amatus.us19.list-manage.com/subscribe/post?u=87465bab96cd1b8e38a9d5104&amp;id=f3a07607dc" target="_blank" title="Subscribe">Interested? Follow our development</a></p>
 
 {% for post in site.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
